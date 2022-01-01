@@ -1,0 +1,15 @@
+[submodule "implementations/tomlrb"]
+	path = implementations/tomlrb
+	url = https://github.com/fbernier/tomlrb
+[submodule "implementations/toml-rb"]
+	path = implementations/toml-rb
+	url = https://github.com/emancu/toml-rb
+[submodule "implementations/toml"]
+	path = implementations/toml
+	url = https://github.com/jm/toml
+[submodule "implementations/toby"]
+	path = implementations/toby
+	url = https://github.com/joe-p/toby
+[submodule "toml-test"]
+	path = toml-test
+	url = https://github.com/BurntSushi/toml-test
