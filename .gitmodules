@@ -13,3 +13,9 @@
 [submodule "toml-test"]
 	path = toml-test
 	url = https://github.com/BurntSushi/toml-test
+[submodule "implementations/custom/tomlrb"]
+	path = implementations/custom/tomlrb
+	url = https://github.com/gyfis/tomlrb
+[submodule "implementations/perfect_toml"]
+	path = implementations/perfect_toml
+	url = https://github.com/mame/perfect_toml
